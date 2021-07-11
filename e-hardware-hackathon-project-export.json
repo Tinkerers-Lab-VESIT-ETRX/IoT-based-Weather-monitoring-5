@@ -1,0 +1,35 @@
+{
+  "Humidity_data" : [ {
+    "date" : "2021-07-04",
+    "reading" : 78,
+    "time" : "00:37"
+  }, 
+  {
+    "date" : "2021-07-04",
+    "reading" : 78,
+    "time" : "00:37"
+  }, {
+    "date" : "2021-07-04",
+    "reading" : 78,
+    "time" : "00:37"
+  }, {
+    "date" : "2021-07-04",
+    "reading" : 78,
+    "time" : "00:37"
+  } ],
+  "Temperature_data" : [ {
+    "date" : "2021-07-04",
+    "reading" : 78,
+    "time" : "00:37"
+  }, {"date" : "2021-07-04",
+    "reading" : 78,
+    "time" : "00:37"}, {
+      "date" : "2021-07-04",
+    "reading" : 78,
+    "time" : "00:37"
+    }, {
+      "date" : "2021-07-04",
+    "reading" : 78,
+    "time" : "00:37"
+    } ]
+}
